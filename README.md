@@ -1,1 +1,1 @@
-# -Prog2kakushin
+# Prog2kakushin
