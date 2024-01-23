@@ -29,4 +29,3 @@ ovencvを使って、画像を編集するプログラムを作りました。
 ![download](https://github.com/yossy-goddog/Prog2kakushin/assets/153153319/45e7fdea-1ead-43f5-92f8-032e5154c11d)
 # 工夫点
 一致度を一色ではなく各色にしたこと。エッジ検出の方向をx,y,xyで場合分けしたこと。自分の好きなキャラクターのファイルを作ったこと。
-![download](https://github.com/yossy-goddog/Prog2kakushin/assets/153153319/a77e53ea-70dc-443c-9a05-686e15c12c14)
