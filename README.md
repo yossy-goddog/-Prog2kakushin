@@ -1,4 +1,4 @@
-# Prog2kakushin
+![download](https://github.com/yossy-goddog/Prog2kakushin/assets/153153319/3c598573-2984-4ece-911f-f13b232e8028)# Prog2kakushin
 # プログラム1について
 # 概要
 私はテーマが行列である実社会数学の課題をすぐできるようなプログラムを作成しました。事前に距離を計算して、表を作ってもらう必要がありますが、それ以降のグループ化や、デンドログラムの作成はこのプログラムがすべて行ってくれます。
@@ -20,7 +20,13 @@ numpyを使って、ゲームを作りました。四つの丸を縦、横、斜
 # 概要
 ovencvを使って、画像を編集するプログラムを作りました。
 # 入力と出力
-画像を読み込んで名前を間違えずに入力し、実行すれば、その画像のエッジ検出と、各色の一致度を表示してくれます。
+画像を読み込んで名前を間違えずに入力し、実行すれば、その画像のエッジ検出と、各色の一致度を表示してくれます。  
+![download](https://github.com/yossy-goddog/Prog2kakushin/assets/153153319/a77e53ea-70dc-443c-9a05-686e15c12c14)  
+青色の一致度: -0.3080937516459963
+緑色の一致度: 0.481975419656565
+赤色の一致度: 0.9304915483201169  
+![download](https://github.com/yossy-goddog/Prog2kakushin/assets/153153319/b6d6a3b9-0480-44ad-b31c-b920b3afc2ee)  
+![download](https://github.com/yossy-goddog/Prog2kakushin/assets/153153319/45e7fdea-1ead-43f5-92f8-032e5154c11d)
 # 工夫点
 一致度を一色ではなく各色にしたこと。エッジ検出の方向をx,y,xyで場合分けしたこと。自分の好きなキャラクターのファイルを作ったこと。
 ![download](https://github.com/yossy-goddog/Prog2kakushin/assets/153153319/a77e53ea-70dc-443c-9a05-686e15c12c14)
